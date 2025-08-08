@@ -36,7 +36,7 @@ Este projeto foi construído com foco em uma arquitetura limpa e escalável.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/LucassMateusDev/todo_list_kotlin)
+    git clone https://github.com/LucassMateusDev/todo_list_kotlin
     ```
 2.  Abra o projeto no [Android Studio](https://developer.android.com/studio).
 3.  O Gradle cuidará do resto, sincronizando e baixando todas as dependências necessárias.
